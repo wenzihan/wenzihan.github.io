@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Zihan Wen(闻子涵)
+**Student in Beijing Institute of Technology**  
 
-You can use the [editor on GitHub](https://github.com/wenzihan/wenzihan.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Lab. of IIT, School of Computer Science, Beijing Institute of Technology](http://iitlab.bit.edu.cn/mcislab)  
+[School of Computer Science](cs.bit.edu.cn), [Beijing Institute of Technology](http://www.bit.edu.cn)  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[wen_zihan@outlook.com](wen_zihan@outlook.com), [wen_zihan@bit.edu.cn](wen_zihan@bit.edu.cn), [wen_zihan@gmail.com](wen_zihan@gmail.com)  
+Room 840，Central Teaching Building, Beijing Institute of Technology, Beijing, China
 
-### Markdown
+## Biography
+---
+I'm Wen Zihan from the school of computer science, Beijing University of technology. At present, I am working with my [supervisor](https://wuxinxiao.github.io) in Beijing Media Computing and Intelligent Systems Laboratory, focusing on transfer learning and its application, including label prediction, object detection, etc
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Research
+---
+**Machine Learning**: Transfer Learning, Deep Learning  
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Education
+---
+·Bachelor in Computer Science, 2016-2020  
+ [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Research Experience
+---
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Publications
+---
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wenzihan/wenzihan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
