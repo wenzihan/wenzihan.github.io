@@ -1,3 +1,4 @@
+![image](https://github.com/wenzihan/wenzihan.github.io/me.jpg)
 # Zihan Wen(闻子涵)
 **Student in Beijing Institute of Technology**  
 
