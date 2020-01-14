@@ -1,4 +1,5 @@
-![](https://github.com/wenzihan/wenzihan.github.io/blob/master/me.jpg)
+<img src="https://github.com/wenzihan/wenzihan.github.io/blob/master/me.jpg" width = 30% height = 30% />  
+
 # Zihan Wen(闻子涵)
 **Student in Beijing Institute of Technology**  
 
