@@ -4,9 +4,9 @@
 **Student in Beijing Institute of Technology**  
 
 [Lab. of IIT, School of Computer Science, Beijing Institute of Technology](http://iitlab.bit.edu.cn/mcislab)  
-[School of Computer Science](cs.bit.edu.cn), [Beijing Institute of Technology](http://www.bit.edu.cn)  
+[School of Computer Science](http://cs.bit.edu.cn), [Beijing Institute of Technology](http://www.bit.edu.cn)  
 
-[wen_zihan@outlook.com](wen_zihan@outlook.com), [wen_zihan@bit.edu.cn](wen_zihan@bit.edu.cn), [wen_zihan@gmail.com](wen_zihan@gmail.com)  
+[wen_zihan@outlook.com](mailto:wen_zihan@outlook.com), [wen_zihan@bit.edu.cn](mailto:wen_zihan@bit.edu.cn), [wen_zihan@gmail.com](mailto:wen_zihan@gmail.com)  
 Room 840，Central Teaching Building, Beijing Institute of Technology, Beijing, China
 
 ## Biography
