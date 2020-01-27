@@ -1,4 +1,16 @@
-<img src="https://github.com/wenzihan/wenzihan.github.io/blob/master/me.jpg" width = 30% height = 30% />  
+<table border="0">
+    <tr>
+      <td width="25%">
+      <img src="/me.jpg" width="40%">  
+      </td>
+      <td width="40%">
+        <h1>Zihan Wen</h1>
+        <p><b>bachelor of Beijing Institute of Technology</b></p>
+        <p><b>[Beijing Institute of Technology](http://www.bit.edu.cn)</b></p>
+        <p><b>Email: chen_jin@bit.edu.cn</b></p>
+      </td>
+    </tr>
+</table>
 
 # Zihan Wen(闻子涵)
 **Student in Beijing Institute of Technology**  
