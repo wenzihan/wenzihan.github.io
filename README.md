@@ -1,18 +1,17 @@
 <table border="0">
     <tr>
-      <td width="25%">
-      <img src="/me.jpg" width="40%">  
+      <td width="30%">
+      <img src="/oh.jpg" width="50%">  
       </td>
-      <td width="40%">
-        <h1>Zihan Wen</h1>
-        <p><b>bachelor of Beijing Institute of Technology</b></p>
-        <p><b>[Beijing Institute of Technology](http://www.bit.edu.cn)</b></p>
-        <p><b>Email: chen_jin@bit.edu.cn</b></p>
+      <td width="90%">
+        <h1>Zihan Wen(闻子涵)</h1>
+        <p><b>Bachelor of Beijing Institute of Technology</b></p>
+        <p><b>University:Beijing Institute of Technology</b></p>
+        <p><b>Email: wen_zihan@bit.edu.cn</b></p>
       </td>
     </tr>
 </table>
 
-# Zihan Wen(闻子涵)
 **Student in Beijing Institute of Technology**  
 
 [Lab. of IIT, School of Computer Science, Beijing Institute of Technology](http://iitlab.bit.edu.cn/mcislab)  
