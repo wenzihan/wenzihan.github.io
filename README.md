@@ -1,7 +1,7 @@
 <table border="0">
     <tr>
       <td width="30%">
-      <img src="/oh.jpg" width="50%">  
+      <img src="/oh.jpg" width="100%">  
       </td>
       <td width="90%">
         <h1>Zihan Wen(闻子涵)</h1>
