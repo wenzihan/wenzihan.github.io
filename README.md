@@ -27,19 +27,21 @@ I'm Wen Zihan from the school of computer science, Beijing University of technol
 
 ## Research
 ---
-**Machine Learning**: Transfer Learning, Deep Learning  
+**Machine Learning**: Transfer Learning, Deep Learning, Video Object Detection  
 
 
 ## Education
 ---
 ·Bachelor in Computer Science, 2016-2020  
  [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China
+·Master in Computer Science, 2020-now
+ [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China
 
 
 ## Research Experience
 ---
-
-
+·Partial Image-to-Video Adaptation
+·Image knowledge transfer for object detection in videos
 
 ## Publications
 ---
