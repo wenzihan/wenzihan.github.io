@@ -32,16 +32,16 @@ I'm Wen Zihan from the school of computer science, Beijing University of technol
 
 ## Education
 ---
-·Bachelor in Computer Science, 2016-2020  <br />
- [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China<br />
+<p><b>·Bachelor in Computer Science, 2016-2020  </b></p>
+<p><b> [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China</b></p>
  
-·Master in Computer Science, 2020-now <br />
- [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China
+<p><b>·Master in Computer Science, 2020-now </b></p>
+<p><b> [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China</b></p>
 
 
 ## Research Experience
 ---
-·Partial Image-to-Video Adaptation<br />
+·Partial Image-to-Video Adaptation<br/>
 ·Image knowledge transfer for object detection in videos
 
 ## Publications
