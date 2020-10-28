@@ -17,7 +17,7 @@
 [Lab. of IIT, School of Computer Science, Beijing Institute of Technology](http://iitlab.bit.edu.cn/mcislab)  
 [School of Computer Science](http://cs.bit.edu.cn), [Beijing Institute of Technology](http://www.bit.edu.cn)  
 
-[wen_zihan@outlook.com](mailto:wen_zihan@outlook.com), [wen_zihan@bit.edu.cn](mailto:wen_zihan@bit.edu.cn), [wen_zihan@gmail.com](mailto:wen_zihan@gmail.com)  
+[wen_zihan@outlook.com](mailto:wen_zihan@outlook.com), [wen_zihan@bit.edu.cn](mailto:wen_zihan@bit.edu.cn), [wenzihan0120@gmail.com](mailto:wenzihan0120@gmail.com)  
 Room 840，Central Teaching Building, Beijing Institute of Technology, Beijing, China
 
 ## Biography
@@ -33,10 +33,10 @@ I'm Wen Zihan from the school of computer science, Beijing University of technol
 ## Education
 ---
 ·Bachelor in Computer Science, 2016-2020  <br/>
-[Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China<br/>
+[Department of Computer Science and Technology](http://cs.bit.edu.cn)，Beijing Institute of Technology，China<br/>
  
-·Master in Computer Science, 2020-now <br/>
-[Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China<br/>
+·Master in Computer Science, 2020-now  <br/>
+[Department of Computer Science and Technology](http://cs.bit.edu.cn)，Beijing Institute of Technology，China<br/>
 
 
 ## Research Experience
