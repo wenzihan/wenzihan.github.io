@@ -5,7 +5,7 @@
       </td>
       <td width="90%">
         <h1>Zihan Wen(闻子涵)</h1>
-        <p><b>Bachelor of Beijing Institute of Technology</b></p>
+        <p><b>Master of Beijing Institute of Technology</b></p>
         <p><b>University:Beijing Institute of Technology</b></p>
         <p><b>Email: wen_zihan@bit.edu.cn</b></p>
       </td>
@@ -35,8 +35,8 @@ I'm Wen Zihan from the school of computer science, Beijing University of technol
 ·Bachelor in Computer Science, 2016-2020  <br/>
 [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China<br/>
  
-<p><b>·Master in Computer Science, 2020-now </b></p>
-<p><b> [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China</b></p>
+·Master in Computer Science, 2020-now <br/>
+[Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China<br/>
 
 
 ## Research Experience
