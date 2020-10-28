@@ -32,8 +32,8 @@ I'm Wen Zihan from the school of computer science, Beijing University of technol
 
 ## Education
 ---
-<p><b>·Bachelor in Computer Science, 2016-2020  </b></p>
-<p><b> [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China</b></p>
+<b>·Bachelor in Computer Science, 2016-2020  </b>
+<b> [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China</b>
  
 <p><b>·Master in Computer Science, 2020-now </b></p>
 <p><b> [Department of Computer Science and Technology](cs.bit.edu.cn)，Beijing Institute of Technology，China</b></p>
